@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![jzaia18's github stats](https://github-readme-stats.vercel.app/api?username=jzaia18&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/jzaia18)
+Current CMU grad student (MSCS). I like to do quantum-y things.
