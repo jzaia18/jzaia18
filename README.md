@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Current CMU grad student (MSCS). I like to do quantum-y things.
+Software Developer at Xanadu. I like to do quantum-y things.
