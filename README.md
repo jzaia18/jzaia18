@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software developer working on [PennyLane](https://github.com/PennyLaneAI) at [@XanaduAI](https://github.com/XanaduAI). I like to do quantum-y things.
+Software developer working on [PennyLane](https://github.com/PennyLaneAI) at [XanaduAI](https://github.com/XanaduAI). I like to do quantum-y things.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzaia18&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jzaia18&theme=github_dark)
